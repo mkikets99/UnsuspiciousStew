@@ -21,7 +21,7 @@
     "unsuspicious-stew.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.14.x",
+    "fabricloader": "0.14.x",
     "fabric": "*",
     "minecraft": ["1.19"]
   }
